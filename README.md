@@ -14,9 +14,8 @@ Summary: A collection of regular expression tools associated with the 'qdap' pac
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-qdapregex-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-qdapregex-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-qdapregex-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-qdapregex-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-qdapregex-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-qdapregex-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-qdapregex-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-qdapregex-feedstock)
 
 Current release info
 ====================
