@@ -14,9 +14,9 @@ source:
   sha256: 377d77e975b12593e8a38689664d80641946721fbb0e287353f20daf78c048f5
 
 build:
+  noarch: generic
   merge_build_host: True  # [win]
-  number: 1
-  skip: true  # [win32]
+  number: 1001
   rpaths:
     - lib/R/lib/
     - lib/
@@ -44,8 +44,7 @@ about:
     of abbreviations, dates, dollar amounts, email addresses, hash tags, numbers, percentages,
     citations, person tags, phone numbers, times, and zip codes.
   license_family: GPL2
-  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'  # [unix]
-  license_file: '{{ environ["PREFIX"] }}\R\share\licenses\GPL-2'  # [win]
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
 
 extra:
   recipe-maintainers:
