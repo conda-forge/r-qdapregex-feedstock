@@ -1,11 +1,11 @@
-About r-qdapregex
-=================
+About r-qdapregex-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qdapregex-feedstock/blob/main/LICENSE.txt)
 
 Home: http://trinker.github.com/qdapRegex/
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qdapregex-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of regular expression tools associated with the 'qdap' package that may be useful outside of the context of discourse analysis. Tools include removal/extraction/replacement of abbreviations, dates, dollar amounts, email addresses, hash tags, numbers, percentages, citations, person tags, phone numbers, times, and zip codes.
 
